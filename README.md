@@ -14,6 +14,10 @@ The table below contains a link to all original exercises on Codewars and a link
 
 3. main.js: holds the actual solution
 
+#Katas solved
+
+*Ranking: Lower ranked katas correspond to a higher level of difficulty.
+
 kyu | Katas | Solutions
 ---- | ------- | -------
 6 | [Take a 10 Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) | [10-min-walk](https://github.com/rcsima7/codewar-katas/blob/master/01-lab-js-odd-or-even/main.js)

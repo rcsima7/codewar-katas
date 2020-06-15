@@ -14,7 +14,7 @@ The table below contains a link to all original exercises on Codewars and a link
 
 3. main.js: holds the actual solution
 
-#Katas solved
+# Katas solved
 
 *Ranking: Lower ranked katas correspond to a higher level of difficulty.
 
